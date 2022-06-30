@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Long Play Picker</string>
+    <string name="shuffle_button">Shuffle</string>
+</resources>
